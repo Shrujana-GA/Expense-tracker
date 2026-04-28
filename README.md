@@ -34,4 +34,5 @@ A simple and modern expense tracker built using Flask.
 ---
 
 ## 📸 Screenshot
-(Add your screenshot here)
+<img width="809" height="1280" alt="expense-tracker-ss" src="https://github.com/user-attachments/assets/bc8f1544-5040-4427-b8d9-179cd0e0094c" />
+
